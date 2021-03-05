@@ -1,2 +1,4 @@
 # monkymind.github.io
-Monkymind site
+Personal Site
+
+Modified template from https://startbootstrap.com/template/blog-home/
